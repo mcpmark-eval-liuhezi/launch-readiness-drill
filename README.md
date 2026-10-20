@@ -1,2 +1,3 @@
 # launch-readiness-drill
-Go/no-go release readiness tracker and checklist template for launches
+
+This repository is the go/no-go readiness home for the v1.0 launch and the reusable template we clone for every future release. It brings together the release checklist that defines our go criteria, no-go triggers, and sign-off expectations, the tracking issue that links out to every open readiness work item so owners can report status in one place, and the rollout runbook the release team follows once a go decision is made. Everything needed to walk into the launch decision meeting prepared — the checklist, the linked sign-off items, the runbook, and the latest security sweep results — lives here in one place and stays visible to the whole release team.
